@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    background-color: #6278F7;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 32px;
+}
+.redes-sociais img{
+    margin: 10px;
+    max-width: 15%;
+}
+.footer h5{
+    color: white;
+    font-weight: 500;
+}
